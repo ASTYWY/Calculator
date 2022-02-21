@@ -3,3 +3,8 @@ let symbol;
 let second_number;
 let result = 0;
 let text = document.getElementById('header');
+
+
+function calc(){ 
+    }
+    
