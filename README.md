@@ -1,2 +1,3 @@
 # Calculator
-my calculator
+AZIZOVA SABRINA
+ИТС-б-о-21-1
